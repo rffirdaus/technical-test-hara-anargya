@@ -33,3 +33,6 @@ Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSa
 
  Jika ada pertanyaan, silakan open issue pada repo ini ya!
  <b>Happy Coding! 🔥</b>
+
+ Nama   : `Roeri Fajri Firdaus`
+ Email  : [rff.firdaus@gmail.com]

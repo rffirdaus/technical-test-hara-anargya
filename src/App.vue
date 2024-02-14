@@ -1,7 +1,6 @@
-<script setup></script>
-
 <template>
-  <div class="text-lg font-bold">Hallo Folks!</div>
+  <div id="app">
+    <router-view />
+  </div>
 </template>
 
-<style scoped></style>
